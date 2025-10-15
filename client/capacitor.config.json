@@ -1,0 +1,16 @@
+{
+  "appId": "com.mmm.shooter",
+  "appName": "MMM Shooter",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1e1e2e",
+      "showSpinner": true,
+      "spinnerColor": "#00ff00"
+    }
+  }
+}
